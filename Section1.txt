@@ -1,0 +1,17 @@
+Anasayfa ve oyuncaklar sayfasında ilgili divin üzerine geldiğinde renk değişimi ve resimlerin boyut değişimi  sağlanmıştır.
+Bu özellikler java script ile  yapılmıştır.
+
+Ana sayfa üzreinde divlerin üstündeki butonlara tıklayarak sağa veya sola kaydırabilirsiniz.
+Bu özellik java script ile sağlanmıştır.
+
+İletişim sayfasında şikayet formunun input validationlarını java script ve css özelliklerini kullanarak sağlanmıştır.
+ 
+Urunler.html sayfası yükelndikten sonra ajax.js dosyası çalışmaktadır.
+Bu dosya içerisinde de fakeapi uzerine ajax ile istek atılmaktadır.
+istek sonucu ürünler listelenmektedir.
+Ajax isteği sonlandıktan sonra urunler sayfa içinde gösterilmektedir.
+Burada da detay bilgilerini getiren ajax sonlandıktan sonra urunDetay.html sayfasında gösterilmektedir.
+
+
+
+

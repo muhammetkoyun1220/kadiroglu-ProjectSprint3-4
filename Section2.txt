@@ -1,0 +1,12 @@
+Web sitemiz bir lunapark sitesine sahip olup , paydaşlarımızı lunapark hakkında bilgilendirmek ,
+sahip olunan  oyuncakları sergilemek ,çekiliş ve hediye ürünler hakkında bilgi vermek ,lunaparkın
+kuruluşu hakkında kullanıcıları aydınlatmak ve herhangi bir problem veya rahatsızlığa karşı 
+istekleri doğrultusunda işletmeye rahatsız oldukları durumları paylaşabilecekleri bir lunapark projesidir.
+
+İleriye dönük olarak tasarlanan ve yazılan web sitemizde kuullanıcılar için Play kartlar oluşturmak
+(silver ve gold olmak üzere ) ve bu kartlarla para yükleme işlemlerini online olarak banka havalesi ile
+gerçekleştirebilmeleridir.Kart harcamalarına göre indirim ve extra oyun oynama hakkı gibi avantajlar kullanıcılara 
+teğmin edilebilir.
+Bunun dışında , web sitemizde bir etkinlik takvimi oluşturulabilir.Ayrıca lunaparkın bir haritası oluşturularak 
+ziyaretcilerin anlık konum bilgilerini takip edebilmesini sağlamak ve lunapark alanı içerisinde istedikleri konumlara 
+daha rahat ulaştırabilmektir. 
